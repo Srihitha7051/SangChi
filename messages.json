@@ -1,0 +1,128 @@
+[
+    {
+        "from": "abcd@gmail.com",
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "hello sanath",
+        "timestamp": "2025-05-15 18:04"
+    },
+    {
+        "from": "u.sanathkumar.me@gmail.com",
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "how do you do",
+        "timestamp": "2025-05-15 18:08"
+    },
+    {
+        "from": null,
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "hi",
+        "timestamp": "2025-05-16 06:38"
+    },
+    {
+        "from": "sanathkumarsunny1234@gmail.com",
+        "to": "abcd@gmail.com",
+        "message": "hello",
+        "timestamp": "2025-05-16 06:39"
+    },
+    {
+        "from": "sanathkumarsunny1234@gmail.com",
+        "to": "abcd@gmail.com",
+        "message": "hello",
+        "timestamp": "2025-05-16 06:42"
+    },
+    {
+        "from": "sanathkumarsunny1234@gmail.com",
+        "to": "abcd@gmail.com",
+        "message": "hello",
+        "timestamp": "2025-05-16 06:42"
+    },
+    {
+        "from": "sanathkumarsunny1234@gmail.com",
+        "to": "abcd@gmail.com",
+        "message": "hi",
+        "timestamp": "2025-05-16 06:42"
+    },
+    {
+        "from": "sanathkumarsunny1234@gmail.com",
+        "to": "abcd@gmail.com",
+        "message": "hi",
+        "timestamp": "2025-05-16 06:44"
+    },
+    {
+        "from": "sanathkumarsunny1234@gmail.com",
+        "to": "abcd@gmail.com",
+        "message": "hi",
+        "timestamp": "2025-05-20 10:14"
+    },
+    {
+        "from": "sunnyure@gmail.com",
+        "to": "ravi@gmail.com",
+        "message": "hi",
+        "timestamp": "2025-05-26 17:59"
+    },
+    {
+        "from": "sunnyure@gmail.com",
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "hello sanath",
+        "timestamp": "2025-05-27 09:20"
+    },
+    {
+        "from": "sanathkumarsunny1234@gmail.com",
+        "to": "sunnyure@gmail.com",
+        "message": "hi",
+        "timestamp": "2025-05-27 09:29"
+    },
+    {
+        "from": "ravitejakolanu00@gmail.com",
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "Hello",
+        "timestamp": "2025-06-02 19:48"
+    },
+    {
+        "from": "sunny1234@gmail.com",
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "hi",
+        "timestamp": "2025-06-02 19:50"
+    },
+    {
+        "from": "sanathkumarsunny1234@gmail.com",
+        "to": "sunnyure@gmail.com",
+        "message": "hivgjhj",
+        "timestamp": "2025-06-11 21:25"
+    },
+    {
+        "from": "deekondasanthosh609@gmail.com",
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "Hi ra puka",
+        "timestamp": "2025-06-11 21:41"
+    },
+    {
+        "from": "srikanth123@gmail.com",
+        "to": "ravi@gmail.com",
+        "message": "hii",
+        "timestamp": "2025-06-15 16:36"
+    },
+    {
+        "from": "sunnyure@gmail.com",
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "Hi",
+        "timestamp": "2025-06-19 15:23"
+    },
+    {
+        "from": "sunnyure@gmail.com",
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "Hello",
+        "timestamp": "2025-06-19 15:23"
+    },
+    {
+        "from": "sanathkumarsunny1234@gmail.com",
+        "to": "sunnyure@gmail.com",
+        "message": "hi",
+        "timestamp": "2025-06-19 15:24"
+    },
+    {
+        "from": "sunnyure@gmail.com",
+        "to": "sanathkumarsunny1234@gmail.com",
+        "message": "Hello",
+        "timestamp": "2025-06-19 15:24"
+    }
+]

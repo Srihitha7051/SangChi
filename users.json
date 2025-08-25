@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Sanath Kumar",
+        "email": "sanathkumarsunny1234@gmail.com",
+        "password": "8588310a98676af6e22563c1559e1ae20f85950792bdcd0c8f334867c54581cd",
+        "thoughts": "eating",
+        "feelings": "no feelings",
+        "interests": "i do nothing",
+        "habits": "daily sleeping"
+    },
+    {
+        "name": "dd",
+        "email": "abcd@gmail.com",
+        "password": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+        "thoughts": "qwer",
+        "feelings": "asdg",
+        "interests": "zxcv",
+        "habits": "qazxsw"
+    },
+    {
+        "name": "sunny",
+        "email": "u.sanathkumar.me@gmail.com",
+        "password": "e8f56862d74ef5599af4eeca73924bfa44a6773a497af0c29c48e18729ba6ff0",
+        "thoughts": "poiu",
+        "feelings": "lkjh",
+        "interests": "mnbv",
+        "habits": "bhyu"
+    },
+    {
+        "name": "Sanath Kumar",
+        "email": "sunny@gmail.com",
+        "phone": "7671968518",
+        "password": "3649a9dd0692999c4cbc19180d4fa9c89378f69ca9085f3b32c743725080f367",
+        "thoughts": "feeling lucky",
+        "feelings": "not bad",
+        "interests": "movies",
+        "habits": "roaming in the village"
+    },
+    {
+        "name": "Sanath Kumar",
+        "email": null,
+        "password": "8588310a98676af6e22563c1559e1ae20f85950792bdcd0c8f334867c54581cd",
+        "thoughts": "",
+        "feelings": "",
+        "interests": "",
+        "habits": ""
+    }
+]
